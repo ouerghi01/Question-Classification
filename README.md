@@ -2,7 +2,7 @@
 
 ## Overview
 This project focuses on **Question Classification** using Natural Language Processing (NLP) techniques. It leverages the experimental dataset provided by Xin Li and Dan Roth ([1]), widely recognized for advancing the understanding and classification of natural language questions. The dataset includes multiple training sets, a TREC-10 test set, and associated feature extraction tools, making it an ideal foundation for building robust question classification models.
-
+- **lien dataset** : https://cogcomp.seas.upenn.edu/Data/QA/QC/
 ## Dataset Description
 The dataset contains:
 - **Question Classification Taxonomy**: Defines the classes used for question categorization.
